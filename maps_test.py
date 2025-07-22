@@ -30,7 +30,17 @@ stations_dictionary = {
            -84.3409,-84.3168,-84.2863,-84.4578,-84.4466,
            -84.4172,-84.4326,-84.4079,-84.3971,-84.3852,
            -84.3758,-84.3461,-84.3283,-84.2989,-84.2774,
-           -84.2407,-84.2183,-84.3597]
+           -84.2407,-84.2183,-84.3597],
+  'line': ['red/yellow','red/yellow','red/yellow','red/yellow',
+           'red/yellow','red/yellow','red/yellow','red/yellow',
+           'red/yellow','red/yellow','red/yellow','red/yellow',
+           'red/yellow','red/yellow','yellow','red',
+           'red','red','red','red',
+           'yellow','yellow','yellow','HAMILTON E. HOLMES STATION',
+           'WEST LAKE STATION','ASHBY STATION','BANKHEAD STATION','VINE CITY STATION',
+           'GWCC/CNN CENTER STATION','GEORGIA STATE STATION','KING MEMORIAL STATION','EDGEWOOD/CANDLER PARK STATION',
+           'EAST LAKE STATION','DECATUR STATION','AVONDALE STATION','KENSINGTON STATION',
+           'INDIAN CREEK STATION','INMAN PARK/REYNOLDSTOWN STATION']
 }
 #print(f"[{stations_dictionary['lat'][22]}, {stations_dictionary['long'][22]}]")
 
